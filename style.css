@@ -37,7 +37,8 @@ header{
 }
 
 .jumbotrone{
-  background: -moz-linear-gradient(-45deg, rgba(38,41,99,1) 0%, rgba(85,159,153,1) 100%);
+  background: rgb(38,41,99);
+  background: linear-gradient(90deg, rgba(38,41,99,1) 0%, rgba(9,9,121,1) 13%, rgba(85,159,153,1) 100%);
   width: 100vw;
   height: auto;
   padding: 50px 0 50px;
@@ -157,7 +158,8 @@ a:hover{
 
 
 footer{
-  background: -moz-linear-gradient(-45deg, rgba(38,41,99,1) 0%, rgba(85,159,153,1) 100%);
+  background: rgb(38,41,99);
+  background: linear-gradient(90deg, rgba(38,41,99,1) 0%, rgba(9,9,121,1) 13%, rgba(85,159,153,1) 100%);
   width: 100vw;
   height: auto;
   padding: 50px 0 50px;
